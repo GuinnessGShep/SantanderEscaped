@@ -6,6 +6,14 @@
         <true/>
         <key>com.apple.private.skip-library-validation</key>
         <true/>
+        <key>com.apple.private.security.disk-device-access</key>
+        <true/>
+        <key>com.apple.private.tcc-allow</key>
+        <array>
+            <string>kTCCServiceSystemPolicyRemovableVolumes</string>
+        </array>
+        <key>com.apple.private.vfs-snapshot</key>
+        <true/>
         <key>com.apple.private.security.no-container</key>
         <true/>
         <key>com.apple.security.app-sandbox</key>
